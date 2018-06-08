@@ -14,4 +14,4 @@
 
 FROM websphere-liberty:webProfile7
 
-RUN installUtility install --acceptLicense wmqJmsClient-2.0
+RUN installUtility install --acceptLicense wmqJmsClient-1.1
